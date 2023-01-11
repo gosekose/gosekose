@@ -10,5 +10,5 @@
 - 🔭 codeviewer: 온라인 코딩테스트 시험 플랫폼 SpringBoot, jpa, queryDsl, redis, thymeleaf, flask-api
 - 🌱 the-Liar-game: 라이어 게임 SpringBoot, jpa, queryDsl, redis, (vue.js 예정)
 - 👯 pinetree: 소나무재선충 리더보드 flask, Machine learing, mysql, AWS lightSail, domain 배포 (협업)
-- 🤔 kis-pytorch: 청경채 생육 환경 최적화 경진대회 pytorch
+- 🤔 kist-pytorch: 청경채 생육 환경 최적화 경진대회 pytorch
 
