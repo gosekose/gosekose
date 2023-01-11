@@ -5,7 +5,9 @@
 
 -->
 
-안녕하세요. 회사와 함께 성장하고 싶은 신입 백엔드 개발자 KOSE입니다. 기술적 겸손함을 가지고 성장하겠습니다.
+안녕하세요. 백엔드 개발자를 희망하는 KOSE입니다. 
+매일 기술적 겸손함을 가지며 살아가겠습니다.
+나아가 회사와 함께 성장하고 싶습니다.
 
 - 🔭 codeviewer: [SpringMVC] 온라인 코딩테스트 시험 플랫폼 SpringBoot, jpa, queryDsl, redis, thymeleaf, flask-api (개발 중)
 - 🌱 the-Liar-game: [SpringREST] 라이어 게임 SpringBoot, jpa, queryDsl, redis, (프론트 vue.js 예정)
