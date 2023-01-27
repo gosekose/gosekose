@@ -10,7 +10,7 @@
 나아가 회사와 함께 성장하고 싶습니다. </br>
 
 - 🔭 codeviewer: [SpringMVC] 온라인 코딩테스트 시험 플랫폼 SpringBoot, jpa, queryDsl, redis, thymeleaf, flask-api (개발 중)
-- 🌱 the-Liar-game: [SpringREST] 라이어 게임 SpringBoot, jpa, queryDsl, redis, msa 리펙토링 중
+- 🌱 the-Liar-game: [MSA] 라이어 게임 SpringBoot, SpringCloud(eureka/gateway/business/config)
 - 👯 pinetree: 소나무재선충 리더보드 flask, Machine learing, mysql, AWS lightSail, domain 배포 (협업)
 - 🤔 kist-pytorch: 청경채 생육 환경 최적화 경진대회 pytorch
 
