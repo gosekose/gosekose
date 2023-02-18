@@ -11,5 +11,4 @@
 
 - 🌱 the-Liar-game: [MSA] 라이어 게임 SpringBoot, SpringCloud(eureka/gateway/business/config)
 - 🔭 codeviewer: [SpringMVC] 온라인 코딩테스트 시험 플랫폼 SpringBoot, jpa, queryDsl, redis, thymeleaf, flask-api (개발 중)
-- 👯 pinetree: 소나무재선충 리더보드 flask, Machine learing, mysql, AWS lightSail, domain 배포 (협업)
 
