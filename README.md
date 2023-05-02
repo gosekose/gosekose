@@ -11,6 +11,5 @@ TDD 기반 설계로 동시성 문제와 트랜잭션 상황을 해결하고자 
 
 - 🌱 the-Liar-game: [MSA] 라이어 게임 SpringBoot, SpringCloud(eureka/gateway/business/config), JPA, QueryDsl, Redis, MySQL(H2)
 - 🔭 the-Liar-game-dev: AWS 배포를 위한 dev 서버 https://github.com/Liar-Dev
-- ✨ 포트폴리오: https://url.kr/o4hm2s
 - ✨ 연락처: ksyn1611@naver.com
 
