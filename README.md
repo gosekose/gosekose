@@ -10,7 +10,6 @@
 테스트를 기반으로 신뢰할 수 있는 서버 개발을 지향합니다. </br>
 데이플랜 프로젝트 서버/안드로이드 개발 중 입니다.! </br>
 
-- 🎁 Karrotpay: 당근페이 어카운트 서비스팀 백엔드 인턴 (23.06 ~ 23.08)
 - 🌱 The-Liar-game: [MSA] 라이어 게임 SpringBoot, SpringCloud(eureka/gateway/business/config), Redis, MySQL
 - 🔭 The-Liar-game-dev: AWS 배포를 위한 dev 서버 https://github.com/Liar-Dev
 - 🙇 Blog: https://gose-kose.tistory.com/
