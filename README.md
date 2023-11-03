@@ -11,13 +11,9 @@
 기술적 겸손함으로 개발에 임하며 회사와 함께 성장하고 싶습니다. </br>
 테스트를 기반으로 신뢰할 수 있는 서버 개발을 지향합니다. </br>
 
-</br>
-
 이력
 - Bolta Product Engineer, BackEnd (23.11 ~ )
 - Karrotpay Software Engineer, BackEnd Intern (23.06 ~ 23.08)
-
-</br>
 
 연락처
 - 🙇 Blog: https://gose-kose.tistory.com/
