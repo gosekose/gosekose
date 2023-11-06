@@ -16,7 +16,7 @@
 - Karrotpay Software Engineer, BackEnd Intern (23.06 ~ 23.08)
 
 연락처
-- Blog: https://gose-kose.tistory.com/
+- Blog: https://gose-kose.tistory.com
 - LinkedIn: https://url.kr/hy1j5u
 - Email: ksyn1611@naver.com
 
