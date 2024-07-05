@@ -12,7 +12,7 @@
 테스트를 기반으로 신뢰할 수 있는 서버 개발을 지향합니다. </br>
 
 이력
-- Bolta Product Engineer, BackEnd (23.11 ~ 24.06)
+- Bolta Product Engineer, BackEnd (23.11 ~ 24.07)
 - Karrotpay Software Engineer, BackEnd Intern (23.06 ~ 23.08)
 
 연락처
