@@ -15,6 +15,13 @@
 - Bolta Product Engineer, BackEnd (23.11 ~ 24.07)
 - Karrotpay Software Engineer, BackEnd Intern (23.06 ~ 23.08)
 
+프로젝트
+- 축구 전술 대시보드 (vue.js / springBoot / kotlin)
+- insideout (springboot / kotlin)
+- dayplan (android / springboot / kotlin)
+- liargame (springboot / java)
+
+
 연락처
 - Blog: https://gose-kose.tistory.com
 - LinkedIn: https://url.kr/hy1j5u
