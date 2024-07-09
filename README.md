@@ -16,11 +16,9 @@
 - Karrotpay Software Engineer, BackEnd Intern (23.06 ~ 23.08)
 
 프로젝트
-- 축구 전술 대시보드 (vue.js / springBoot / kotlin) [https://github.com/orgs/twovolanchi/repositories]
 - insideout (springboot / kotlin) [https://github.com/gosekose/insideout]
 - dayplan (android / springboot / kotlin) [https://github.com/DayPlan-Team]
 - liargame (springboot / java) [https://github.com/Liar-Dev]
-
 
 연락처
 - Blog: https://gose-kose.tistory.com
