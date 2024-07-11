@@ -16,7 +16,7 @@
 - Karrotpay Software Engineer, BackEnd Intern (23.06 ~ 23.08)
 
 프로젝트
-- twovolanchi (typescript) 진행 중입니다. (축구 전술 시뮬레이션)
+- 라볼피아나 (typescript) 진행 중입니다. (축구 전술 시뮬레이션)
 - insideout (springboot / kotlin) [https://github.com/gosekose/insideout]
 - dayplan (android / springboot / kotlin) [https://github.com/DayPlan-Team]
 - liargame (springboot / java) [https://github.com/Liar-Dev]
