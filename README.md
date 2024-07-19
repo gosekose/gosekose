@@ -16,7 +16,7 @@
 - Karrotpay Software Engineer, BackEnd Intern (23.06 ~ 23.08)
 
 프로젝트
-- 축구 전술 사이트 라볼피아나 (FE / BE) . ([축구 전술 시뮬레이션 FrontEnd/BackEnd](https://github.com/twovolanchi-lavolpiana/.github/blob/main/README.md))
+- 축구 전술 사이트 라볼피아나 (FE / BE) [https://www.lavolpiana.com]
 - insideout (springboot / kotlin) [https://github.com/gosekose/insideout]
 - dayplan (android / springboot / kotlin) [https://github.com/DayPlan-Team]
 - liargame (springboot / java) [https://github.com/Liar-Dev]
