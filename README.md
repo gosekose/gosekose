@@ -15,12 +15,6 @@
 - Bolta Product Engineer, BackEnd (23.11 ~ 24.07)
 - Karrotpay Software Engineer, BackEnd Intern (23.06 ~ 23.08)
 
-학력
-- 서울과학기술대학교 4학년 졸업 예정 (취업계)
-
-병역
-- 17사단 수색대대 병장 만기 전역 (19.04)
-
 프로젝트
 - 축구 전술 사이트 라볼피아나 (FE / BE) [https://www.lavolpiana.com]
 - insideout (springboot / kotlin) [https://github.com/gosekose/insideout]
